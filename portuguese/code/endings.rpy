@@ -4,31 +4,31 @@
 translate portuguese ending_not_available_984be117:
 
     # "This ending will be implemented later."
-    ""
+    "Esse final será implementado depois."
 
 # game/code/endings.rpy:251
 translate portuguese ending_not_available_8ffd33e4:
 
     # "You can save the game here and experience this ending once it will be implemented!"
-    ""
+    "Você pode salvar o jogo aqui e aproveitar esse final quando for implementado!"
 
 translate portuguese strings:
 
     # game/code/endings.rpy:4
     old "Ending #1\nS&M Studio"
-    new ""
+    new "Final #1\nEstúdio S&M"
 
     # game/code/endings.rpy:20
     old "Ending #2\nLyssa Runaway"
-    new ""
+    new "Final #2\nFugindo com Lyssa"
 
     # game/code/endings.rpy:33
     old "Ending #3\nTwo Girls Two Dicks"
-    new ""
+    new "Final #3\nDuas Garotas Dois Paus"
 
     # game/code/endings.rpy:46
     old "Ending #4\n[mcname]'s Sex Dungeon'"
-    new ""
+    new "Final #4\nCalabouço sexual do [mcname]"
 
     # game/code/endings.rpy:59
     old "Ending #5\nSausage Party"
